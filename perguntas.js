@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual é o maior país da América o Sul?',
+    'Qual é o maior país da América o Sul',
     'O maior país da América do Sul é o Brasil'
 )
 
